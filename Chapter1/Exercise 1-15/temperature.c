@@ -1,6 +1,5 @@
 /**
- * Author: Jeremy Yu <ccpalettes@gmail.com>
- * 
+ * Author: Jerin Thomas jerinthomas1498@gmail.com
  * Solution for Exercise 1-15, Chapter1.
  */
 
